@@ -73,7 +73,9 @@ Yes and no.  The only node that changes its point values is the 5-star essential
 
 # Wait, What Is 120%?
 
-You'll see this in Alliance recruiting posts, they'll ask for 120% or 1.2x progression.  That means, if full progression for an event is 55,000 they'll want you to score 66,000, for example.  This is mainly to ensure your alliance places where they're aiming for to get the rewards they want.  Full progression is only about 70% of the points available in an event, so doing optimal clears every day should finish progression early and you just keep grinding for points.
+You'll see this in Alliance recruiting posts, they'll ask for 120% or 1.2x progression.  That means, if full progression for an event is 55,000 they'll want you to score 66,000, for example.  This is mainly to ensure your alliance places where they're aiming for to get the rewards they want.  Full progression is only about 70% of the points available in an event, so doing optimal clears every day should finish progression early and you just keep grinding for points.  You'll also see stuff like 100% progression or 130% progression; this is pretty easy to calculate by just looking at the number of points required for the maximum and multiplying it by that number.
+
+If you want to know how well you've been doing, just take your final score for the event and divide it by the total required for max progression.  This can help a lot when you're shopping for a new alliance.  If you just tell them "for the last five events I've gotten over 120%" it's a much easier way for them to gauge how good of a scorer you will be.
 
 # Ok, But What About Placement Rewards?
 
@@ -87,7 +89,6 @@ The community has a spreadsheet that lists times based on reporting from players
 
 [**http://tinyurl.com/mpqbracket**](http://tinyurl.com/mpqbracket) 
 
-If you follow this link as of posting you won't see anything because there's no slice tracking for alliance events.  It'll start back up when the next event opens.
 
 # Did I Miss Anything?
 
