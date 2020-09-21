@@ -57,6 +57,10 @@ Play fast, pretty much.  PVE in general very heavily incentivizes fast clears.  
 
 That said, there is still a strategy to the way the points refresh.  You want to play each one until you see a reduced number of points and a timer counting down, then leave it alone until the following day.  For regular nodes, this happens after four clears.  For wave nodes, this happens after two.  Special "Join Forces" nodes that loan you a champed version of the 4\* essential character start refreshing after a single clear.
 
+Occasionally you'll see subs that last for 48 hours, though.  That's when this changes a little bit.
+
+There are a lot more points available in a 48-hr sub because the nodes actually have a time to regenerate their full point values before you start clearing them.  At the time when you would usually start grinding your nodes down to 0, you only want to hit each node a single time to restart the timers, then leave them alone again.  Let them get back up to full, but don't let them sit there too long not regenerating points.  Then, at the end of the second day, do your clears as normal.
+
 The pattern I use to clear my nodes is, I'll hit every node four times in a row (twice for wave nodes) before moving on to the next unlocked node.  Do the regular nodes first, then the essentials.  When all your nodes are on timers, you're done until the next day.  How much time it takes to "grind" all your nodes down to 0 (3 more clears for a total of 7, even though there are only rewards for 6 clears.  The last one is pure points), that depends.  A good benchmark is how long it took to clear them initially, but if you're not paying attention, save an hour or 45 minutes for your final clears.  You'll get a better sense for how long it takes as you play more.  I need about 30 minutes for mine, depending on how hard the event is.  Don't forget about the Join Forces node if it's there and replayable!  There are some points hiding in there, but save it until last because there aren't as many points in there as the other nodes.  You'll grind it down to 0 after about 3-4 clears total.
 
 When you're deciding how to time out your nodes, you want to err on the side of earlier rather than later if you're not sure.  It's better to clear all your points early than start too late and leave some on the table when the sub closes.
@@ -75,7 +79,7 @@ Yes and no.  The only node that changes its point values is the 5-star essential
 
 You'll see this in Alliance recruiting posts, they'll ask for 120% or 1.2x progression.  That means, if full progression for an event is 55,000 they'll want you to score 66,000, for example.  This is mainly to ensure your alliance places where they're aiming for to get the rewards they want.  Full progression is only about 70% of the points available in an event, so doing optimal clears every day should finish progression early and you just keep grinding for points.  You'll also see stuff like 100% progression or 130% progression; this is pretty easy to calculate by just looking at the number of points required for the maximum and multiplying it by that number.
 
-If you want to know how well you've been doing, just take your final score for the event and divide it by the total required for max progression.  This can help a lot when you're shopping for a new alliance.  If you just tell them "for the last five events I've gotten over 120%" it's a much easier way for them to gauge how good of a scorer you will be.
+If you want to know how well you've been doing, just take your final score for the event and divide it by the total required for max progression.  This can help a lot when you're shopping for a new alliance.  If you can tell them "for the last five events I've gotten over 120%" it's a much easier way for them to gauge how good of a scorer you will be.
 
 # Ok, But What About Placement Rewards?
 
